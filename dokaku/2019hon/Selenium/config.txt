@@ -1,0 +1,2 @@
+email_name,careertasu_password,google_api_認証ファイル名,動作確認環境
+000000,000000,000000.json,000000

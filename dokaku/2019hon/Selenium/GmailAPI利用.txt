@@ -1,0 +1,10 @@
+﻿1. 動作確認用Gmailアカウント
+→NAME:動作　確認, ID:000000@gmail.com, PW:000000
+
+2. Google Developer consoleでのプロジェクト
+→2020-dokaku
+
+3. Gmail APIを許可する
+
+4. .credentials/の作成場所
+→C:\Users\{mei.sei}\.credentials
